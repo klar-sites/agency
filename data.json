@@ -1,1 +1,1 @@
-{"theme":{},"blocks":{},"page":{}}
+{"theme":{},"blocks":{"portfolio":{"template_id":"portfolio"},"about":{"template_id":"about"},"team":{"template_id":"team"},"clients":{"template_id":"clients"},"contact":{"template_id":"contact"},"footer":{"template_id":"footer"},"decoration":{"template_id":"decoration"}},"page":{}}

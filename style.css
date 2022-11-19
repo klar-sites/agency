@@ -507,6 +507,58 @@
   }
 }
 
+.team-member {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+.team-member img {
+  margin: 0 auto;
+  border: 7px solid white;
+}
+.team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+.team-member p {
+  margin-top: 0;
+}
+.team-member ul.social-buttons {
+  margin-bottom: 0;
+}
+.team-member ul.social-buttons li a {
+  display: block;
+  background-color: #222222;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  font-size: 20px;
+  line-height: 40px;
+  color: white;
+  outline: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.team-member ul.social-buttons li a:hover,
+.team-member ul.social-buttons li a:focus,
+.team-member ul.social-buttons li a:active {
+  background-color: #fed136;
+}
+
+/* Team */
+#team-1668637801175 {
+  background-color: ;
+  padding-top: px;
+  padding-bottom: px;
+}
+#team-1668637801175 ul.social-buttons li a:hover,
+#team-1668637801175 ul.social-buttons li a:focus,
+#team-1668637801175 ul.social-buttons li a:active {
+  background-color: #e02e3d;
+}
+
 .service-heading {
   margin: 15px 0;
   text-transform: none;
